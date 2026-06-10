@@ -20,9 +20,9 @@ Pipeline end-to-end yang dibangun meliputi:
 3. Anotasi: Format YOLOv8 segmentation polygon (.txt)
 4. Kelas:
 
-    1.mildew — Powdery mildew (embun tepung)
-    2.rose_P01 — Penyakit mawar tipe P01
-    3.rose_R02 — Penyakit mawar tipe R02
+    1. mildew — Powdery mildew (embun tepung)
+    2. rose_P01 — Penyakit mawar tipe P01
+    3. rose_R02 — Penyakit mawar tipe R02
 
 
 5. Split akhir: 56% train : 14% validasi : 30% test (stratified)
