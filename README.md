@@ -13,7 +13,7 @@ Pipeline end-to-end yang dibangun meliputi:
 4. Klasifikasi — SVM kernel RBF dengan strategi One-vs-Rest (OvR)
 5. Evaluasi — Accuracy, F1-Score, Confusion Matrix, 5-Fold Cross Validation
 
-🗂️ Dataset
+Dataset
 
 1. Sumber: Roboflow Universe — roboflow-100/leaf-disease-nsdsr
 2. Total citra: 2.501 gambar (.jpg)
